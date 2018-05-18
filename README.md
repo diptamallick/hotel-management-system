@@ -1,1 +1,1 @@
-# hotel-management-system using java, j2ee, mysql
+# online restaurant management system using java, j2ee, mysql
